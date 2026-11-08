@@ -1,0 +1,7 @@
+[2026-11-08T15:34:20Z] === AST ITERATION 1 START | repo=canonical/hydra-operator sha=da50d480 ===
+[2026-11-08T15:34:20Z] [iter=1] PHASE START: ast repo=canonical/hydra-operator sha=da50d480
+[2026-11-08T15:34:20Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T15:36:02Z] [iter=1] AST chunks built count=1 triples=930915
+[2026-11-08T15:36:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/da50d480e4e5a682960cd912d5052e0a097edc8b/.complete
+[2026-11-08T15:36:02Z] [iter=1] PHASE END: ast elapsed_s=102 elapsed_min=1.7
+[2026-11-08T15:36:02Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

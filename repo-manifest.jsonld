@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/hydra-operator/commit/da50d480e4e5a682960cd912d5052e0a097edc8b",
       "git:hexsha": "da50d480e4e5a682960cd912d5052e0a097edc8b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/hydra-operator/commit/42c0c31c88d1a650e6e4e7933a7ded647ffa518c",
