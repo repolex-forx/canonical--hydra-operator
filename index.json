@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "hydra-operator",
+  "versions": [
+    {
+      "commit": "da50d480e4e5a682960cd912d5052e0a097edc8b",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:37:15.983039+00:00"
+    }
+  ]
+}
